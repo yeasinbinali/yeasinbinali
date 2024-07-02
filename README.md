@@ -4,5 +4,15 @@
 <p>A dedicated web developer with a passion for crafting exceptional digital experiences. Currently, my focus is on mastering React Redux for creating sophisticated websites and delving into React Native for developing innovative mobile applications.</p>
 <h2>Current Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeasinbinali" alt="GitHub Streak" /></a>
-<h2>Technologies what I know</h2>
+<h2>💻 Technologies what I know</h2>
+<div align="left">
+  <img src="https://i.ibb.co/dfFPLXh/javascript.png" />
+  <img src="https://i.ibb.co/VSNwBNx/reactjs.png" />
+  <img src="https://i.ibb.co/JRMpCrK/bootstrap.png" />
+  <img src="https://i.ibb.co/dKvM8vL/tailwind.png">
+  <img src="https://i.ibb.co/ctdFS2B/nodejs.png" />
+  <img src="https://i.ibb.co/t3BzG1w/mongodb.png" />
+  <img src="https://i.ibb.co/M7mWBZ4/firebase.png" />
+  <img src="https://i.ibb.co/7yTwcbN/stripe.png" />
+</div>
 
