@@ -5,7 +5,7 @@
 <h2>Current Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeasinbinali" alt="GitHub Streak" /></a>
 <h2>💻 Technologies what I know</h2>
-<div align="left">
+<div display="grid" grid-template-columns="auto auto auto" gap="10px">
   <img width="32px" src="https://i.ibb.co/dfFPLXh/javascript.png" />
   <img width="32px" src="https://i.ibb.co/VSNwBNx/reactjs.png" />
   <img width="32px" src="https://i.ibb.co/JRMpCrK/bootstrap.png" />
