@@ -6,13 +6,13 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeasinbinali" alt="GitHub Streak" /></a>
 <h2>💻 Technologies what I know</h2>
 <div align="left">
-  <img src="https://i.ibb.co/dfFPLXh/javascript.png" />
-  <img src="https://i.ibb.co/VSNwBNx/reactjs.png" />
-  <img src="https://i.ibb.co/JRMpCrK/bootstrap.png" />
-  <img src="https://i.ibb.co/dKvM8vL/tailwind.png">
-  <img src="https://i.ibb.co/ctdFS2B/nodejs.png" />
-  <img src="https://i.ibb.co/t3BzG1w/mongodb.png" />
-  <img src="https://i.ibb.co/M7mWBZ4/firebase.png" />
-  <img src="https://i.ibb.co/7yTwcbN/stripe.png" />
+  <img width="32px" src="https://i.ibb.co/dfFPLXh/javascript.png" />
+  <img width="32px" src="https://i.ibb.co/VSNwBNx/reactjs.png" />
+  <img width="32px" src="https://i.ibb.co/JRMpCrK/bootstrap.png" />
+  <img width="32px" src="https://i.ibb.co/dKvM8vL/tailwind.png">
+  <img width="32px" src="https://i.ibb.co/ctdFS2B/nodejs.png" />
+  <img width="32px" src="https://i.ibb.co/t3BzG1w/mongodb.png" />
+  <img width="32px" src="https://i.ibb.co/M7mWBZ4/firebase.png" />
+  <img width="32px" src="https://i.ibb.co/7yTwcbN/stripe.png" />
 </div>
 
