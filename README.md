@@ -6,13 +6,13 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeasinbinali" alt="GitHub Streak" /></a>
 <h2>💻 Technologies what I know</h2>
 <br/>
-<p>
+<p align="center">
   <img width="40px" src="https://i.ibb.co/dfFPLXh/javascript.png" />
   <img width="40px" src="https://i.ibb.co/VSNwBNx/reactjs.png" />
   <img width="40px" src="https://i.ibb.co/JRMpCrK/bootstrap.png" />
   <img width="40px" src="https://i.ibb.co/dKvM8vL/tailwind.png">
 </p>
-<p>
+<p align="center">
   <img width="40px" src="https://i.ibb.co/ctdFS2B/nodejs.png" />
   <img width="40px" src="https://i.ibb.co/t3BzG1w/mongodb.png" />
   <img width="40px" src="https://i.ibb.co/M7mWBZ4/firebase.png" />
