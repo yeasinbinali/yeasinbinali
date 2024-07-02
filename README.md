@@ -6,7 +6,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeasinbinali" alt="GitHub Streak" /></a>
 <h2>💻 Technologies what I know</h2>
 <div align="center>
-  <img width="40px" src="https://i.ibb.co/dfFPLXh/javascript.png" />
+  <img background="gray" width="40px" src="https://i.ibb.co/dfFPLXh/javascript.png" />
   <img width="40px" src="https://i.ibb.co/VSNwBNx/reactjs.png" />
   <img width="40px" src="https://i.ibb.co/JRMpCrK/bootstrap.png" />
   <img width="40px" src="https://i.ibb.co/dKvM8vL/tailwind.png">
